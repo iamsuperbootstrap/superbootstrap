@@ -5,9 +5,10 @@ We always try to keep our templates to current bootstrap version! Current versio
 
 ## Current Templates
 
-Our template production in working 24/7 to produce enhanced and more beautiful templates, currently we have listed **1** template
+Our template production in working 24/7 to produce enhanced and more beautiful templates, currently we have listed **2** template
 
-- [**Bootstrap Video Template**](http://startbootstrap.com/template-overviews/creative/) - A Video landing page.
+- [**Bootstrap Video Template**](https://superbootstrap.com/theme/Super-Bootstrap-Video-Template-SB45255ADC) - A Video landing page.
+- [**Bootstrap Browser Mocks**](https://superbootstrap.com/theme/Bootstrap-Browser-Mocks-SB32A70291) - Responsive Browser Mocks.
 
 
 ## Copyright and License
